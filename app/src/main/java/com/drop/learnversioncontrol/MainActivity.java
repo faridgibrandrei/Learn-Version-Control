@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String messageFromUser1 = "second message by user1";
+        String messageFromUser1 = "third message by user1";
     }
 }
